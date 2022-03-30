@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.16.3
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.1
 
 RUN /usr/share/elasticsearch/bin/elasticsearch-plugin install --batch analysis-icu && \
   /usr/share/elasticsearch/bin/elasticsearch-plugin install --batch analysis-kuromoji && \
