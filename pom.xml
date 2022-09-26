@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.dockeraystack</groupId>
   <artifactId>dockeray-elasticsearch</artifactId>
-  <version>7.17.1-1.0.0</version>
+  <version>7.17.1-2.0.0</version>
   <name>Dockeray :: Elasticsearch</name>
   <inceptionYear>2022</inceptionYear>
   <organization>
